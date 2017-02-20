@@ -10,7 +10,7 @@ Funkcja DCB zapewnia sprzętowe możliwości przydziału przepustowości dla okr
 
 W wielu przedsiębiorstwach istnieją duże instalacje sieci magazynowania (SAN) Fiber Channel (FC) dla usługi magazynowania. Sieć SAN FC wymaga zastosowania specjalnych kart sieciowych na serwerach i przełącznikach FC w sieci. Ogólnie wdrażanie sprzętu sieci FC jest znacznie droższe niż wdrażanie sprzętu sieci Ethernet, co powoduje duże wydatki inwestycyjne. Ponadto posiadanie oddzielnego adaptera i przełącznika do obsługi ruchu sieciowego Ethernet i SAN FC wymaga dodatkowej przestrzeni, mocy i wydajności chłodzenia w centrum danych. O wiele korzystniejsze jest scalanie technologii FC z rozwiązaniami sprzętowymi sieci Ethernet.
 
-Dla firm któr już posiadają duże sieci FC SAN, funkcja DCB umożliwia utworzenie konwergentnej sieci szkieletowej.Taka konwergentna sieć szkieletowa utworzona przy użyciu funkcji DCB może zmniejszyć przyszły całkowity koszt posiadania i ułatwić zarządzanie. W sytuacjik iedy dostawca usług hostingowych wdrożył lub zamierza wdrożyć rozwiązanie magazynowania iSCSI, funkcja DCB może zapewnić sprzętową rezerwację przepustowości dla ruchu iSCSI w celu zapewnienia izolacji wydajności.
+Dla firm któr już posiadają duże sieci FC SAN, funkcja DCB umożliwia utworzenie konwergentnej sieci szkieletowej.Taka konwergentna sieć szkieletowa utworzona przy użyciu funkcji DCB może zmniejszyć przyszły całkowity koszt posiadania i ułatwić zarządzanie. W sytuacji  kiedy dostawca usług hostingowych wdrożył lub zamierza wdrożyć rozwiązanie magazynowania iSCSI, funkcja DCB może zapewnić sprzętową rezerwację przepustowości dla ruchu iSCSI w celu zapewnienia izolacji wydajności.
 
 ###DCB a oprogramowanie Windows Server 2012
 
@@ -25,3 +25,9 @@ Zastosowanie funkcji DCB w systemie Windows Server® 2012 eliminuje wiele proble
 5. Zapewnia możliwość zarządzania funkcją DCB przy użyciu infrastruktury Instrumentacji zarządzania Windows (WMI) i programu Windows PowerShell w systemie Windows Server® 2012.
 6. Zapewnia możliwość zarządzania funkcją DCB przy użyciu zasad grupy w systemie Windows Server® 2012.
 7. Obsługuje współistnienie rozwiązań jakości usług (QoS) w systemie Windows Server® 2012.
+
+###Przykładowy serwer z obsługą DCB
+
+###Serwer FUJITSU PRIMERGY BX2580
+
+![enter image description here](http://www.fujitsu.com/fts/Images/W-DK35258_tcm21-1414992.png)
