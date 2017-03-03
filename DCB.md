@@ -16,7 +16,7 @@ Dla firm któr już posiadają duże sieci FC SAN, funkcja DCB umożliwia utworz
 
 Zastosowanie funkcji DCB w systemie Windows Server® 2012 eliminuje wiele problemów, które wystepują w sytuacji kiedy rozwiązania konwergentnej sieci szkieletowej pochodzą od wielu producentów OEM. Implementacja rozwiązań własnościowych dostarczonych przez producentów sprawia , że mogą one nie współpracować ze sobą, wykazywać trudności w zarządzaniu i mające różne harmonogramy konserwacji oprogramowania. W przeciwieństwie do do tych rozwiązań funkcja DCB w systemie Windows Server® 2012 jest oparta na standardach i dosyć łatwa do wdrożenia i zarządzania. 
 
-###Ważne funkcje realizowane poprzez DCB
+###Ważne funkcje realizowane przez DCB
 
 1. Zapewnia współpracę między kartami sieciowymi i przełącznikami z obsługą funkcji DCB.
 2. Zapewnia bezstratną transmisję za pośrednictwem sieci Ethernet między komputerem z systemem Windows Server® 2012 i sąsiadującym przełącznikiem przez włączenie w karcie sieciowej sterowania przepływem na podstawie priorytetów.
@@ -32,6 +32,6 @@ Zastosowanie funkcji DCB w systemie Windows Server® 2012 eliminuje wiele proble
 
 ![enter image description here](http://www.fujitsu.com/fts/Images/W-DK35258_tcm21-1414992.png)
 
-## Źródła
+## Źródła 
 
 *<https://msdn.microsoft.com/pl-pl/library/hh849179(v=ws.11).aspx>
