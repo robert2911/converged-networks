@@ -32,6 +32,6 @@ Zastosowanie funkcji DCB w systemie Windows Server® 2012 eliminuje wiele proble
 
 ![enter image description here](http://www.fujitsu.com/fts/Images/W-DK35258_tcm21-1414992.png)
 
-## Źródła 
+## Źródła do pracy
 
 *<https://msdn.microsoft.com/pl-pl/library/hh849179(v=ws.11).aspx>
